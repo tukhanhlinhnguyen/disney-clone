@@ -1,6 +1,6 @@
 import styles from '../styles/Home.module.css'
 import { gql, GraphQLClient } from 'graphql-request'
-import Link from 'next/Link'
+import Link from 'next/link'
 import Image from 'next/Image'
 import Section from '../components/Section'
 import NavBar from "../components/NavBar"
