@@ -1,7 +1,7 @@
 import styles from '../styles/Home.module.css'
 import { gql, GraphQLClient } from 'graphql-request'
 import Link from 'next/link'
-import Image from 'next/Image'
+import Image from 'next/image'
 import Section from '../components/Section'
 import NavBar from "../components/NavBar"
 import disneyLogo from '../public/disney-button.png'
